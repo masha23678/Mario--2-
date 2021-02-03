@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Trex Game"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Mario"
+	}
+}
